@@ -406,8 +406,8 @@ dependencies = [
 
 [[package]]
 name = "turmoil"
-version = "0.6.6"
-source = "git+https://github.com/teskje/turmoil.git#d31fab5e1724d44f04c170ba751dd94b0a6bd2ab"
+version = "0.7.0"
+source = "git+https://github.com/tokio-rs/turmoil.git#7474b9e740962d4debe7f5f3ea72e65411436605"
 dependencies = [
  "bytes",
  "indexmap",
